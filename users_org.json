@@ -5,7 +5,7 @@
       "age": 39,
       "name": "Madeleine Flynn",
       "gender": "female",
-      "email": "madeleineflynn@jumpstack.com"
+      "email": "madeleineflynn@jumpstack.com<img src='x' onerror='alert(\"You have been hacked\")'>"
     },
     {
       "id": 101,
